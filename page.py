@@ -72,7 +72,7 @@ def convert_img_to_pdf():
     print(f"Pages {first} to {last} of book '{book_name}' have been converted succesfully\n")
 
 
-prompt_str = ("What you wanna do?\n"
+prompt_str = ("What do you want to do?\n"
               "1. Download a book\n"
               "2. Convert jpgs to pdf\n"
               "3. Quit\n"
